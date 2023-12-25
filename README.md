@@ -24,6 +24,10 @@ To get started with the project, follow these steps:
 
 Contributions are welcome! If you have any ideas or improvements, feel free to open an issue or submit a pull request.
 
+## Acknowledgement
+
+This was all possible due to the React Native - The Practical Guide [2023] by Maximilian Schwarzmüller.
+
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
